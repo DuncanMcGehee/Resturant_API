@@ -13,8 +13,8 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0",
-    "express-validator": "^7.2.1",
-    "swagger-jsdoc": "^6.2.8",
+    "express-validator": "^7.3.1",
+    "swagger-jsdoc": "^1.2.1",
     "swagger-ui-express": "^5.0.1"
   }
 }
